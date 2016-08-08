@@ -18,3 +18,13 @@
 <p>**Time limit:**  1 sec</p>
 <p>**Memory limit:** 512 MB </p>
 <p>**Results:** max time used: 0.00/1.00, max memory used: 8577024/536870912</p>
+3. fibonacci_partial_sum.cpp
+<p>Now, we would like to find the last digit of a partial sum of Fibonacci numbers: 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.</p>
+<p>**Task** Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 +
+· · · + 𝐹𝑛.</p>
+<p>**Input Format**The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space.</p>
+<p>**Constraints**  0 ≤ m ≤ 𝑛 ≤ 10^18</p>
+<p>**Output Format** Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.</p>
+<p>**Time limit:**  1 sec</p>
+<p>**Memory limit:** 512 MB </p>
+<p>**Results:** max time used: 0.00/1.00, max memory used: 8572928/536870912</p>

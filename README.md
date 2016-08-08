@@ -22,7 +22,7 @@
 <p>Now, we would like to find the last digit of a partial sum of Fibonacci numbers: 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.</p>
 <p>**Task** Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 +
 · · · + 𝐹𝑛.</p>
-<p>**Input Format**The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space.</p>
+<p>**Input Format** The input consists of two non-negative integers 𝑚 and 𝑛 separated by a space.</p>
 <p>**Constraints**  0 ≤ m ≤ 𝑛 ≤ 10^18</p>
 <p>**Output Format** Output the last digit of 𝐹𝑚 + 𝐹𝑚+1 + · · · + 𝐹𝑛.</p>
 <p>**Time limit:**  1 sec</p>

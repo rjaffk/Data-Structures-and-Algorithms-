@@ -16,5 +16,5 @@
 <p>**Constraints**  0 ≤ 𝑛 ≤ 10^18</p>
 <p>**Output Format** Output the last digit of 𝐹0 + 𝐹1 + · · · + 𝐹𝑛.</p>
 <p>**Time limit:**  1 sec</p>
-<p>**Memory limit:** 5512 MB </p>
+<p>**Memory limit:** 512 MB </p>
 <p>**Results:** max time used: 0.00/1.00, max memory used: 8577024/536870912</p>
